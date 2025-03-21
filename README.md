@@ -1,11 +1,10 @@
 # Centralized-College-Database
-DBMS Project IIIT-Allahabad Sem 4 
+DBMS Project Sridevi women's engineering college(swec) Sem 4 
 
 Make sure you install the right Node modules for the Project.
 
 Project Members:
-1>Aditya Y (Me)
-2>John A (lostquark on GitHub)
+HEMASRI PAKALAPATI
 
 Tech Stack used
 ->Node.js (backend)
@@ -32,7 +31,7 @@ Results of a search
 
 Project Question:
 
---> Centralized College Database
+Centralized College Database
 
 Abstract of the Project:
 
